@@ -1,0 +1,119 @@
+{
+  "_meta": {
+    "note": "Reusable backend + hashtag banks. Mix into KeywordPacks; never dump the whole bank on one post.",
+    "voice": "Public captions stay short (VOICE.md). Keywords live here and in manifests — discovery layer, not brand voice."
+  },
+  "banks": {
+    "fraimous_core": {
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart"
+      ]
+    },
+    "snow_societe": {
+      "primary_terms": [
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#SnowSociete",
+        "#FRAIMOUS",
+        "#winterluxury",
+        "#apreski",
+        "#wallart",
+        "#editorialart"
+      ]
+    },
+    "snow_cars": {
+      "primary_terms": [
+        "porsche crest art",
+        "ferrari wall art",
+        "rolls royce spirit of ecstasy art",
+        "cream porsche 911 art",
+        "luxury car still life",
+        "automotive holiday art"
+      ],
+      "hashtags": [
+        "#porsche",
+        "#ferrari",
+        "#rollsroyce",
+        "#carart",
+        "#luxurycars"
+      ]
+    },
+    "snow_polo": {
+      "primary_terms": [
+        "snow polo art",
+        "equestrian wall art",
+        "polo art print",
+        "St Regis art",
+        "green pony framed",
+        "sporting winter art"
+      ],
+      "hashtags": [
+        "#snowpolo",
+        "#equestrianart",
+        "#polo",
+        "#sportingart",
+        "#framedprint"
+      ]
+    },
+    "pinterest_seo": {
+      "primary_terms": [
+        "framed art above sofa",
+        "living room wall art ideas",
+        "dark academia winter room",
+        "quiet luxury interior",
+        "gallery wall single piece"
+      ],
+      "hashtags": []
+    },
+    "tiktok_discovery": {
+      "primary_terms": [
+        "art that belongs on the wall",
+        "room reveal art",
+        "interior still",
+        "how I hang art",
+        "collector home"
+      ],
+      "hashtags": [
+        "#interiortok",
+        "#homedecor",
+        "#artcollector",
+        "#fyp"
+      ]
+    },
+    "never": {
+      "primary_terms": [],
+      "hashtags": [],
+      "blocklist": [
+        "catalog",
+        "POD",
+        "print-on-demand",
+        "dropship",
+        "excited",
+        "thrilled",
+        "community",
+        "ecosystem",
+        "Frameous",
+        "Fraimeus",
+        "museum-grade"
+      ]
+    }
+  }
+}

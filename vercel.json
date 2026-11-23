@@ -1,0 +1,166 @@
+{
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        }
+      ]
+    },
+    {
+      "source": "/og.jpg",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, immutable"
+        },
+        {
+          "key": "Content-Type",
+          "value": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source": "/library/((?!.*\\.(?:jpe?g|png|webp|gif|avif|svg)$).*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        }
+      ]
+    },
+    {
+      "source": "/og/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/snowglobe",
+      "destination": "/snowglobal",
+      "statusCode": 301
+    },
+    {
+      "source": "/snowglobe/",
+      "destination": "/snowglobal",
+      "statusCode": 301
+    },
+    {
+      "source": "/snow-global-effect",
+      "destination": "/snow-globe-effect",
+      "statusCode": 301
+    },
+    {
+      "source": "/snow-global-effect/",
+      "destination": "/snow-globe-effect",
+      "statusCode": 301
+    },
+    {
+      "source": "/snow-global-effect/:path+",
+      "destination": "/snow-globe-effect/:path+",
+      "statusCode": 301
+    },
+    {
+      "source": "/works/floral-rifle.html",
+      "destination": "/works/thyrsus",
+      "permanent": true
+    },
+    {
+      "source": "/works/floral-rifle",
+      "destination": "/works/thyrsus",
+      "permanent": true
+    },
+    {
+      "source": "/star-port",
+      "destination": "/works/orbit-paper",
+      "permanent": true
+    },
+    {
+      "source": "/star-port.html",
+      "destination": "/works/orbit-paper",
+      "permanent": true
+    },
+    {
+      "source": "/works/star-port",
+      "destination": "/works/orbit-paper",
+      "permanent": true
+    },
+    {
+      "source": "/works/star-port.html",
+      "destination": "/works/orbit-paper",
+      "permanent": true
+    },
+    {
+      "source": "/works/equus",
+      "destination": "/works/horse-floor",
+      "permanent": true
+    },
+    {
+      "source": "/works/equus.html",
+      "destination": "/works/horse-floor",
+      "permanent": true
+    },
+    {
+      "source": "/works/villa",
+      "destination": "/villa",
+      "permanent": true
+    },
+    {
+      "source": "/works/villa.html",
+      "destination": "/villa",
+      "permanent": true
+    },
+    {
+      "source": "/about",
+      "destination": "/#about",
+      "permanent": false
+    },
+    {
+      "source": "/about.html",
+      "destination": "/#about",
+      "permanent": false
+    },
+    {
+      "source": "/equus",
+      "destination": "/works/horse-floor",
+      "permanent": true
+    },
+    {
+      "source": "/equus.html",
+      "destination": "/works/horse-floor",
+      "permanent": true
+    },
+    {
+      "source": "/floral-rifle",
+      "destination": "/works/thyrsus",
+      "permanent": true
+    },
+    {
+      "source": "/floral-rifle.html",
+      "destination": "/works/thyrsus",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/privacy/ko",
+      "destination": "/privacy-ko"
+    },
+    {
+      "source": "/snowglobal",
+      "destination": "/snow-globe-effect"
+    }
+  ]
+}

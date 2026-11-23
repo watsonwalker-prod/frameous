@@ -1,0 +1,137 @@
+{
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        }
+      ]
+    },
+    {
+      "source": "/og.jpg",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, immutable"
+        },
+        {
+          "key": "Content-Type",
+          "value": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source": "/library/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/soon",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/soon.html",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/cart",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/cart.html",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/faq",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/faq.html",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/checkout",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/checkout.html",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/thanks",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/thanks.html",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/works/:path*",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/index.shop",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/index.shop.html",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/index.landing-backup",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/index.landing-backup.html",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/ascensus",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/ascensus.html",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/villa",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/villa.html",
+      "destination": "/",
+      "permanent": false
+    }
+  ]
+}

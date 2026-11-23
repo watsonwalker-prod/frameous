@@ -1,0 +1,1020 @@
+{
+  "meta": {
+    "brand": "FRAIMOUS",
+    "auto_publish": false,
+    "updated_at": "2026-11-12T18:17:51+00:00"
+  },
+  "signals": [],
+  "posts": [
+    {
+      "post_id": "snow-societe-crest-in-lights",
+      "brand": "FRAIMOUS",
+      "collection_channel": "Snow Société",
+      "collection": "Cars",
+      "title": "Crest in Lights",
+      "stem": "crest-in-lights",
+      "package": "snow-societe",
+      "asset_dir": "library/web/collections/snow-societe/crest-in-lights",
+      "assets": {
+        "source": "crest-in-lights-source.jpg",
+        "pinterest-3x2": "crest-in-lights-pinterest-3x2.jpg"
+      },
+      "hook": "Crest in the dark.",
+      "caption_tiktok": "Crest in Lights.\nCrest in the dark.\n\nSnow Société — FRAIMOUS.\nDigital-born stills. Framed when ready.\nInquire. hello@fraimous.com",
+      "caption_instagram": "Crest in Lights.\nCrest in the dark.\n\nSnow Société — FRAIMOUS.\nFrom $89. Inquire.\nhello@fraimous.com",
+      "caption_pinterest": "Crest in Lights.\nCrest in the dark. Snow Société wall still. FRAIMOUS. Inquire — hello@fraimous.com",
+      "caption_youtube": "Crest in Lights | Snow Société | FRAIMOUS",
+      "caption_x": "Crest in Lights.\nCrest in the dark. Snow Société. FRAIMOUS. Inquire.",
+      "cta": "Inquire. hello@fraimous.com",
+      "product_url": "https://fraimous.com",
+      "csv_product": "Crest in Lights (crest-in-lights)",
+      "csv_master_path": "/workspace/snow-societe-phone-pkg/Artwork/01 Crest in Lights/Crest in Lights - source original.jpg",
+      "status": "staged",
+      "channels": [
+        "tiktok",
+        "instagram",
+        "pinterest"
+      ],
+      "go_live_at": null,
+      "score": 90,
+      "signal_ids": [],
+      "negative_words": [
+        "catalog",
+        "POD",
+        "excited",
+        "community",
+        "Frameous",
+        "Fraimeus"
+      ],
+      "created_at": "2026-11-12T18:17:51+00:00",
+      "updated_at": "2026-11-12T18:17:51+00:00"
+    },
+    {
+      "post_id": "snow-societe-spirit-of-the-season",
+      "brand": "FRAIMOUS",
+      "collection_channel": "Snow Société",
+      "collection": "Cars",
+      "title": "Spirit of the Season",
+      "stem": "spirit-of-the-season",
+      "package": "snow-societe",
+      "asset_dir": "library/web/collections/snow-societe/spirit-of-the-season",
+      "assets": {
+        "source": "spirit-of-the-season-source.jpg",
+        "pinterest-2x3": "spirit-of-the-season-pinterest-2x3.jpg"
+      },
+      "hook": "Spirit of the season.",
+      "caption_tiktok": "Spirit of the season.\n\nSnow Société — FRAIMOUS.\nDigital-born stills. Framed when ready.\nInquire. hello@fraimous.com",
+      "caption_instagram": "Spirit of the season.\n\nSnow Société — FRAIMOUS.\nFrom $89. Inquire.\nhello@fraimous.com",
+      "caption_pinterest": "Spirit of the season. Snow Société wall still. FRAIMOUS. Inquire — hello@fraimous.com",
+      "caption_youtube": "Spirit of the Season | Snow Société | FRAIMOUS",
+      "caption_x": "Spirit of the season. Snow Société. FRAIMOUS. Inquire.",
+      "cta": "Inquire. hello@fraimous.com",
+      "product_url": "https://fraimous.com",
+      "csv_product": "Spirit of the Season (spirit-of-the-season)",
+      "csv_master_path": "/workspace/snow-societe-phone-pkg/Artwork/02 Spirit of the Season/Spirit of the Season - source original.jpg",
+      "status": "staged",
+      "channels": [
+        "tiktok",
+        "instagram",
+        "pinterest"
+      ],
+      "go_live_at": null,
+      "score": 89,
+      "signal_ids": [],
+      "negative_words": [
+        "catalog",
+        "POD",
+        "excited",
+        "community",
+        "Frameous",
+        "Fraimeus"
+      ],
+      "created_at": "2026-11-12T18:17:51+00:00",
+      "updated_at": "2026-11-12T18:17:51+00:00"
+    },
+    {
+      "post_id": "snow-societe-prancing-in-lights",
+      "brand": "FRAIMOUS",
+      "collection_channel": "Snow Société",
+      "collection": "Cars",
+      "title": "Prancing in Lights",
+      "stem": "prancing-in-lights",
+      "package": "snow-societe",
+      "asset_dir": "library/web/collections/snow-societe/prancing-in-lights",
+      "assets": {
+        "source": "prancing-in-lights-source.jpg",
+        "ig-4x5": "prancing-in-lights-ig-4x5.jpg",
+        "pinterest-3x2": "prancing-in-lights-pinterest-3x2.jpg"
+      },
+      "hook": "Prancing in lights.",
+      "caption_tiktok": "Prancing in lights.\n\nSnow Société — FRAIMOUS.\nDigital-born stills. Framed when ready.\nInquire. hello@fraimous.com",
+      "caption_instagram": "Prancing in lights.\n\nSnow Société — FRAIMOUS.\nFrom $89. Inquire.\nhello@fraimous.com",
+      "caption_pinterest": "Prancing in lights. Snow Société wall still. FRAIMOUS. Inquire — hello@fraimous.com",
+      "caption_youtube": "Prancing in Lights | Snow Société | FRAIMOUS",
+      "caption_x": "Prancing in lights. Snow Société. FRAIMOUS. Inquire.",
+      "cta": "Inquire. hello@fraimous.com",
+      "product_url": "https://fraimous.com",
+      "csv_product": "Prancing in Lights (prancing-in-lights)",
+      "csv_master_path": "/workspace/snow-societe-phone-pkg/Artwork/03 Prancing in Lights/Prancing in Lights - source original.jpg",
+      "status": "staged",
+      "channels": [
+        "tiktok",
+        "instagram",
+        "pinterest"
+      ],
+      "go_live_at": null,
+      "score": 88,
+      "signal_ids": [],
+      "negative_words": [
+        "catalog",
+        "POD",
+        "excited",
+        "community",
+        "Frameous",
+        "Fraimeus"
+      ],
+      "created_at": "2026-11-12T18:17:51+00:00",
+      "updated_at": "2026-11-12T18:17:51+00:00"
+    },
+    {
+      "post_id": "snow-societe-tree-on-top",
+      "brand": "FRAIMOUS",
+      "collection_channel": "Snow Société",
+      "collection": "Cars",
+      "title": "Tree on Top",
+      "stem": "tree-on-top",
+      "package": "snow-societe",
+      "asset_dir": "library/web/collections/snow-societe/tree-on-top",
+      "assets": {
+        "source": "tree-on-top-source.jpg",
+        "ig-4x5": "tree-on-top-ig-4x5.jpg",
+        "pinterest-3x2": "tree-on-top-pinterest-3x2.jpg"
+      },
+      "hook": "Tree on top.",
+      "caption_tiktok": "Tree on top.\n\nSnow Société — FRAIMOUS.\nDigital-born stills. Framed when ready.\nInquire. hello@fraimous.com",
+      "caption_instagram": "Tree on top.\n\nSnow Société — FRAIMOUS.\nFrom $89. Inquire.\nhello@fraimous.com",
+      "caption_pinterest": "Tree on top. Snow Société wall still. FRAIMOUS. Inquire — hello@fraimous.com",
+      "caption_youtube": "Tree on Top | Snow Société | FRAIMOUS",
+      "caption_x": "Tree on top. Snow Société. FRAIMOUS. Inquire.",
+      "cta": "Inquire. hello@fraimous.com",
+      "product_url": "https://fraimous.com",
+      "csv_product": "Tree on Top (tree-on-top)",
+      "csv_master_path": "/workspace/snow-societe-phone-pkg/Artwork/04 Tree on Top/Tree on Top - source original.jpg",
+      "status": "staged",
+      "channels": [
+        "tiktok",
+        "instagram",
+        "pinterest"
+      ],
+      "go_live_at": null,
+      "score": 87,
+      "signal_ids": [],
+      "negative_words": [
+        "catalog",
+        "POD",
+        "excited",
+        "community",
+        "Frameous",
+        "Fraimeus"
+      ],
+      "created_at": "2026-11-12T18:17:51+00:00",
+      "updated_at": "2026-11-12T18:17:51+00:00"
+    },
+    {
+      "post_id": "snow-societe-snow-polo",
+      "brand": "FRAIMOUS",
+      "collection_channel": "Snow Société",
+      "collection": "St. Regis",
+      "title": "Snow Polo",
+      "stem": "snow-polo",
+      "package": "snow-societe",
+      "asset_dir": "library/web/collections/snow-societe/snow-polo",
+      "assets": {
+        "source": "snow-polo-source.jpg",
+        "pinterest-3x2": "snow-polo-pinterest-3x2.jpg",
+        "ig-4x5": "snow-polo-ig-4x5.jpg"
+      },
+      "hook": "Snow polo.",
+      "caption_tiktok": "Snow polo.\n\nSnow Société — FRAIMOUS.\nDigital-born stills. Framed when ready.\nInquire. hello@fraimous.com",
+      "caption_instagram": "Snow polo.\n\nSnow Société — FRAIMOUS.\nFrom $89. Inquire.\nhello@fraimous.com",
+      "caption_pinterest": "Snow polo. Snow Société wall still. FRAIMOUS. Inquire — hello@fraimous.com",
+      "caption_youtube": "Snow Polo | Snow Société | FRAIMOUS",
+      "caption_x": "Snow polo. Snow Société. FRAIMOUS. Inquire.",
+      "cta": "Inquire. hello@fraimous.com",
+      "product_url": "https://fraimous.com",
+      "csv_product": "Snow Polo (snow-polo)",
+      "csv_master_path": "/workspace/snow-societe/_up/up/snow-polo-x4.png",
+      "status": "staged",
+      "channels": [
+        "tiktok",
+        "instagram",
+        "pinterest"
+      ],
+      "go_live_at": null,
+      "score": 91,
+      "signal_ids": [],
+      "negative_words": [
+        "catalog",
+        "POD",
+        "excited",
+        "community",
+        "Frameous",
+        "Fraimeus"
+      ],
+      "created_at": "2026-11-12T18:17:51+00:00",
+      "updated_at": "2026-11-12T18:17:51+00:00"
+    },
+    {
+      "post_id": "snow-societe-the-green-pony",
+      "brand": "FRAIMOUS",
+      "collection_channel": "Snow Société",
+      "collection": "St. Regis",
+      "title": "The Green Pony",
+      "stem": "the-green-pony",
+      "package": "snow-societe",
+      "asset_dir": "library/web/collections/snow-societe/the-green-pony",
+      "assets": {
+        "source": "the-green-pony-source.jpg",
+        "pinterest-2x3": "the-green-pony-pinterest-2x3.jpg",
+        "ig-4x5": "the-green-pony-ig-4x5.jpg"
+      },
+      "hook": "The green pony.",
+      "caption_tiktok": "The green pony.\n\nSnow Société — FRAIMOUS.\nDigital-born stills. Framed when ready.\nInquire. hello@fraimous.com",
+      "caption_instagram": "The green pony.\n\nSnow Société — FRAIMOUS.\nFrom $89. Inquire.\nhello@fraimous.com",
+      "caption_pinterest": "The green pony. Snow Société wall still. FRAIMOUS. Inquire — hello@fraimous.com",
+      "caption_youtube": "The Green Pony | Snow Société | FRAIMOUS",
+      "caption_x": "The green pony. Snow Société. FRAIMOUS. Inquire.",
+      "cta": "Inquire. hello@fraimous.com",
+      "product_url": "https://fraimous.com",
+      "csv_product": "The Green Pony (horse-polo-green)",
+      "csv_master_path": "/workspace/snow-societe/_up/up/horse-polo-green-x4.png",
+      "status": "staged",
+      "channels": [
+        "tiktok",
+        "instagram",
+        "pinterest"
+      ],
+      "go_live_at": null,
+      "score": 90,
+      "signal_ids": [],
+      "negative_words": [
+        "catalog",
+        "POD",
+        "excited",
+        "community",
+        "Frameous",
+        "Fraimeus"
+      ],
+      "created_at": "2026-11-12T18:17:51+00:00",
+      "updated_at": "2026-11-12T18:17:51+00:00"
+    }
+  ],
+  "keyword_packs": [
+    {
+      "pack_id": "snow-societe-crest-in-lights-tiktok",
+      "post_id": "snow-societe-crest-in-lights",
+      "channel": "tiktok",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete",
+        "#winterluxury",
+        "#apreski"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Crest in Lights. Crest in the dark.",
+      "cover_text": "Crest in Lights",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_cars",
+        "tiktok_discovery"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-crest-in-lights-instagram",
+      "post_id": "snow-societe-crest-in-lights",
+      "channel": "instagram",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete",
+        "#winterluxury",
+        "#apreski",
+        "#porsche",
+        "#ferrari",
+        "#rollsroyce",
+        "#carart"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Crest in Lights. Crest in the dark.",
+      "cover_text": "Crest in Lights",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_cars"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-crest-in-lights-pinterest",
+      "post_id": "snow-societe-crest-in-lights",
+      "channel": "pinterest",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Crest in Lights. Crest in the dark.",
+      "cover_text": "Crest in Lights",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_cars",
+        "pinterest_seo"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-spirit-of-the-season-tiktok",
+      "post_id": "snow-societe-spirit-of-the-season",
+      "channel": "tiktok",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete",
+        "#winterluxury",
+        "#apreski"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Spirit of the Season. Spirit of the season.",
+      "cover_text": "Spirit of the Season",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_cars",
+        "tiktok_discovery"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-spirit-of-the-season-instagram",
+      "post_id": "snow-societe-spirit-of-the-season",
+      "channel": "instagram",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete",
+        "#winterluxury",
+        "#apreski",
+        "#porsche",
+        "#ferrari",
+        "#rollsroyce",
+        "#carart"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Spirit of the Season. Spirit of the season.",
+      "cover_text": "Spirit of the Season",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_cars"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-spirit-of-the-season-pinterest",
+      "post_id": "snow-societe-spirit-of-the-season",
+      "channel": "pinterest",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Spirit of the Season. Spirit of the season.",
+      "cover_text": "Spirit of the Season",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_cars",
+        "pinterest_seo"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-prancing-in-lights-tiktok",
+      "post_id": "snow-societe-prancing-in-lights",
+      "channel": "tiktok",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete",
+        "#winterluxury",
+        "#apreski"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Prancing in Lights. Prancing in lights.",
+      "cover_text": "Prancing in Lights",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_cars",
+        "tiktok_discovery"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-prancing-in-lights-instagram",
+      "post_id": "snow-societe-prancing-in-lights",
+      "channel": "instagram",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete",
+        "#winterluxury",
+        "#apreski",
+        "#porsche",
+        "#ferrari",
+        "#rollsroyce",
+        "#carart"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Prancing in Lights. Prancing in lights.",
+      "cover_text": "Prancing in Lights",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_cars"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-prancing-in-lights-pinterest",
+      "post_id": "snow-societe-prancing-in-lights",
+      "channel": "pinterest",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Prancing in Lights. Prancing in lights.",
+      "cover_text": "Prancing in Lights",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_cars",
+        "pinterest_seo"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-tree-on-top-tiktok",
+      "post_id": "snow-societe-tree-on-top",
+      "channel": "tiktok",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete",
+        "#winterluxury",
+        "#apreski"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Tree on Top. Tree on top.",
+      "cover_text": "Tree on Top",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_cars",
+        "tiktok_discovery"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-tree-on-top-instagram",
+      "post_id": "snow-societe-tree-on-top",
+      "channel": "instagram",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete",
+        "#winterluxury",
+        "#apreski",
+        "#porsche",
+        "#ferrari",
+        "#rollsroyce",
+        "#carart"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Tree on Top. Tree on top.",
+      "cover_text": "Tree on Top",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_cars"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-tree-on-top-pinterest",
+      "post_id": "snow-societe-tree-on-top",
+      "channel": "pinterest",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Tree on Top. Tree on top.",
+      "cover_text": "Tree on Top",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_cars",
+        "pinterest_seo"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-snow-polo-tiktok",
+      "post_id": "snow-societe-snow-polo",
+      "channel": "tiktok",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete",
+        "#winterluxury",
+        "#apreski"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Snow Polo. Snow polo.",
+      "cover_text": "Snow Polo",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_polo",
+        "tiktok_discovery"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-snow-polo-instagram",
+      "post_id": "snow-societe-snow-polo",
+      "channel": "instagram",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete",
+        "#winterluxury",
+        "#apreski",
+        "#snowpolo",
+        "#equestrianart",
+        "#polo",
+        "#sportingart"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Snow Polo. Snow polo.",
+      "cover_text": "Snow Polo",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_polo"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-snow-polo-pinterest",
+      "post_id": "snow-societe-snow-polo",
+      "channel": "pinterest",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — Snow Polo. Snow polo.",
+      "cover_text": "Snow Polo",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_polo",
+        "pinterest_seo"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-the-green-pony-tiktok",
+      "post_id": "snow-societe-the-green-pony",
+      "channel": "tiktok",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete",
+        "#winterluxury",
+        "#apreski"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — The Green Pony. The green pony.",
+      "cover_text": "The Green Pony",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_polo",
+        "tiktok_discovery"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-the-green-pony-instagram",
+      "post_id": "snow-societe-the-green-pony",
+      "channel": "instagram",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete",
+        "#winterluxury",
+        "#apreski",
+        "#snowpolo",
+        "#equestrianart",
+        "#polo",
+        "#sportingart"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — The Green Pony. The green pony.",
+      "cover_text": "The Green Pony",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_polo"
+      ]
+    },
+    {
+      "pack_id": "snow-societe-the-green-pony-pinterest",
+      "post_id": "snow-societe-the-green-pony",
+      "channel": "pinterest",
+      "primary_terms": [
+        "FRAIMOUS",
+        "image house",
+        "digital-born stills",
+        "framed art",
+        "editorial wall art",
+        "limited edition print",
+        "Snow Société",
+        "winter luxury art",
+        "apres ski wall art",
+        "holiday editorial art",
+        "collector winter still",
+        "FRAIMOUS Snow Société"
+      ],
+      "hashtags": [
+        "#FRAIMOUS",
+        "#wallart",
+        "#editorialart",
+        "#digitalart",
+        "#framedart",
+        "#SnowSociete"
+      ],
+      "alt_text": "FRAIMOUS Snow Société — The Green Pony. The green pony.",
+      "cover_text": "The Green Pony",
+      "yt_tags": [],
+      "bank_ids": [
+        "fraimous_core",
+        "snow_societe",
+        "snow_polo",
+        "pinterest_seo"
+      ]
+    }
+  ],
+  "exports": [
+    {
+      "export_id": "snow-societe-instagram-20261112",
+      "batch_id": "snow-societe",
+      "channel": "instagram",
+      "post_ids": [
+        "snow-societe-crest-in-lights",
+        "snow-societe-spirit-of-the-season",
+        "snow-societe-prancing-in-lights",
+        "snow-societe-tree-on-top",
+        "snow-societe-snow-polo",
+        "snow-societe-the-green-pony"
+      ],
+      "manifest_path": "marketing/social-queue/packs/snow-societe/instagram/manifest.json",
+      "status": "ready",
+      "api_job_id": null,
+      "error": null,
+      "created_at": "2026-11-12T18:17:51+00:00"
+    },
+    {
+      "export_id": "snow-societe-pinterest-20261112",
+      "batch_id": "snow-societe",
+      "channel": "pinterest",
+      "post_ids": [
+        "snow-societe-crest-in-lights",
+        "snow-societe-spirit-of-the-season",
+        "snow-societe-prancing-in-lights",
+        "snow-societe-tree-on-top",
+        "snow-societe-snow-polo",
+        "snow-societe-the-green-pony"
+      ],
+      "manifest_path": "marketing/social-queue/packs/snow-societe/pinterest/manifest.json",
+      "status": "ready",
+      "api_job_id": null,
+      "error": null,
+      "created_at": "2026-11-12T18:17:51+00:00"
+    },
+    {
+      "export_id": "snow-societe-tiktok-20261112",
+      "batch_id": "snow-societe",
+      "channel": "tiktok",
+      "post_ids": [
+        "snow-societe-crest-in-lights",
+        "snow-societe-spirit-of-the-season",
+        "snow-societe-prancing-in-lights",
+        "snow-societe-tree-on-top",
+        "snow-societe-snow-polo",
+        "snow-societe-the-green-pony"
+      ],
+      "manifest_path": "marketing/social-queue/packs/snow-societe/tiktok/manifest.json",
+      "status": "ready",
+      "api_job_id": null,
+      "error": null,
+      "created_at": "2026-11-12T18:17:51+00:00"
+    }
+  ]
+}

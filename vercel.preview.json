@@ -1,0 +1,82 @@
+{
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        }
+      ]
+    },
+    {
+      "source": "/og.jpg",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, immutable"
+        },
+        {
+          "key": "Content-Type",
+          "value": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source": "/library/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/star-port",
+      "destination": "/orbit-paper",
+      "permanent": true
+    },
+    {
+      "source": "/star-port.html",
+      "destination": "/orbit-paper",
+      "permanent": true
+    },
+    {
+      "source": "/works/star-port",
+      "destination": "/works/orbit-paper",
+      "permanent": true
+    },
+    {
+      "source": "/works/star-port.html",
+      "destination": "/works/orbit-paper",
+      "permanent": true
+    },
+    {
+      "source": "/works/equus",
+      "destination": "/works/horse-floor",
+      "permanent": true
+    },
+    {
+      "source": "/works/equus.html",
+      "destination": "/works/horse-floor",
+      "permanent": true
+    },
+    {
+      "source": "/works/villa",
+      "destination": "/villa",
+      "permanent": true
+    },
+    {
+      "source": "/works/villa.html",
+      "destination": "/villa",
+      "permanent": true
+    }
+  ]
+}

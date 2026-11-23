@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "purpose": "Local content factory schema — Airtable-compatible later, no account required now.",
+    "brand": "FRAIMOUS",
+    "status_flow": [
+      "idea",
+      "written",
+      "keyworded",
+      "queued",
+      "staged",
+      "live",
+      "killed"
+    ],
+    "channels": ["tiktok", "instagram", "pinterest", "youtube", "x"],
+    "voice": "marketing/VOICE.md",
+    "auto_publish": false,
+    "note": "You approve. Tools only queue, write, keyword, and export packs."
+  },
+  "tables": {
+    "Signals": {
+      "fields": [
+        { "name": "signal_id", "type": "string", "pk": true },
+        { "name": "source", "type": "string", "examples": ["tiktok_creative_center", "pinterest_trends", "own_post", "rsshub"] },
+        { "name": "topic", "type": "string" },
+        { "name": "channel", "type": "enum", "values": ["tiktok", "instagram", "pinterest", "youtube", "x", "cross"] },
+        { "name": "engagement_proxy", "type": "number", "note": "views/saves/score — whatever you captured" },
+        { "name": "url", "type": "url", "optional": true },
+        { "name": "notes", "type": "text", "optional": true },
+        { "name": "captured_at", "type": "datetime" },
+        { "name": "used_by_posts", "type": "link", "to": "Posts", "optional": true }
+      ]
+    },
+    "Posts": {
+      "fields": [
+        { "name": "post_id", "type": "string", "pk": true, "example": "wl-202610-08-party-editorial-a" },
+        { "name": "brand", "type": "string", "default": "FRAIMOUS" },
+        { "name": "stem", "type": "string", "example": "party-editorial-a" },
+        { "name": "package", "type": "string", "example": "winter-light-202610-08" },
+        { "name": "asset_dir", "type": "path" },
+        { "name": "assets", "type": "object", "note": "map crop key → relative filename" },
+        { "name": "hook", "type": "string" },
+        { "name": "caption_tiktok", "type": "text" },
+        { "name": "caption_instagram", "type": "text" },
+        { "name": "caption_pinterest", "type": "text" },
+        { "name": "caption_youtube", "type": "text", "optional": true },
+        { "name": "caption_x", "type": "text", "optional": true },
+        { "name": "cta", "type": "string", "default": "Inquire. hello@fraimous.com" },
+        { "name": "product_url", "type": "url", "optional": true },
+        { "name": "status", "type": "enum", "values": ["idea", "written", "keyworded", "queued", "staged", "live", "killed"] },
+        { "name": "channels", "type": "multiselect" },
+        { "name": "go_live_at", "type": "datetime", "optional": true },
+        { "name": "score", "type": "number", "optional": true, "note": "internal priority 0–100" },
+        { "name": "signal_ids", "type": "array", "optional": true },
+        { "name": "negative_words", "type": "array", "default": ["catalog", "POD", "excited", "community", "Frameous"] },
+        { "name": "created_at", "type": "datetime" },
+        { "name": "updated_at", "type": "datetime" }
+      ]
+    },
+    "KeywordPacks": {
+      "fields": [
+        { "name": "pack_id", "type": "string", "pk": true },
+        { "name": "post_id", "type": "link", "to": "Posts" },
+        { "name": "channel", "type": "enum" },
+        { "name": "primary_terms", "type": "array", "note": "backend discovery / SEO terms" },
+        { "name": "hashtags", "type": "array" },
+        { "name": "alt_text", "type": "text" },
+        { "name": "cover_text", "type": "string", "note": "on-screen / cover / pin title" },
+        { "name": "yt_tags", "type": "array", "optional": true },
+        { "name": "bank_ids", "type": "array", "optional": true }
+      ]
+    },
+    "Exports": {
+      "fields": [
+        { "name": "export_id", "type": "string", "pk": true },
+        { "name": "batch_id", "type": "string" },
+        { "name": "channel", "type": "enum" },
+        { "name": "post_ids", "type": "array" },
+        { "name": "manifest_path", "type": "path" },
+        { "name": "status", "type": "enum", "values": ["ready", "staged", "uploaded", "error"] },
+        { "name": "api_job_id", "type": "string", "optional": true },
+        { "name": "error", "type": "text", "optional": true },
+        { "name": "created_at", "type": "datetime" }
+      ]
+    }
+  },
+  "crop_keys": {
+    "tiktok": ["story-9x16", "ig-4x5"],
+    "instagram": ["ig-4x5", "story-9x16"],
+    "pinterest": ["pinterest-2x3", "pinterest-3x2"],
+    "youtube": ["wide-16x9", "hero-16x9", "story-9x16"],
+    "x": ["ig-4x5", "wide-16x9"]
+  },
+  "filename_pattern": "{prefix}{stem}-{crop}.jpg"
+}

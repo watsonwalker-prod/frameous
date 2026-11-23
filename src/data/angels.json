@@ -1,0 +1,194 @@
+{
+  "collection": "Angels",
+  "lead": "caelifera",
+  "works": [
+    {
+      "n": 1,
+      "file": "angel_01.jpg",
+      "slug": "requies",
+      "title": "Requies",
+      "meaning": "rest after the fall",
+      "sensitive": false
+    },
+    {
+      "n": 2,
+      "file": "angel_02.jpg",
+      "slug": "casus",
+      "title": "Casus",
+      "meaning": "the fall",
+      "sensitive": false
+    },
+    {
+      "n": 3,
+      "file": "angel_03.jpg",
+      "slug": "aureola",
+      "title": "Aureola",
+      "meaning": "a ring of light",
+      "sensitive": false
+    },
+    {
+      "n": 4,
+      "file": "angel_04.jpg",
+      "slug": "gremium",
+      "title": "Gremium",
+      "meaning": "held in the lap of stone",
+      "sensitive": false
+    },
+    {
+      "n": 5,
+      "file": "angel_05.jpg",
+      "slug": "pallium",
+      "title": "Pallium",
+      "meaning": "a cloak of wings",
+      "sensitive": false
+    },
+    {
+      "n": 6,
+      "file": "angel_06.jpg",
+      "slug": "descensus",
+      "title": "Descensus",
+      "meaning": "the descent",
+      "sensitive": false
+    },
+    {
+      "n": 7,
+      "file": "angel_07.jpg",
+      "slug": "vitrea",
+      "title": "Vitrea",
+      "meaning": "made of glass light",
+      "sensitive": false
+    },
+    {
+      "n": 8,
+      "file": "angel_08.jpg",
+      "slug": "excubiae",
+      "title": "Excubiae",
+      "meaning": "the night vigil",
+      "sensitive": false
+    },
+    {
+      "n": 9,
+      "file": "angel_09.jpg",
+      "slug": "lumen",
+      "title": "Lumen",
+      "meaning": "light",
+      "sensitive": false
+    },
+    {
+      "n": 10,
+      "file": "angel_10.jpg",
+      "slug": "sopor",
+      "title": "Sopor",
+      "meaning": "deep sleep",
+      "sensitive": false
+    },
+    {
+      "n": 11,
+      "file": "angel_11.jpg",
+      "slug": "gratia",
+      "title": "Gratia",
+      "meaning": "grace",
+      "sensitive": false
+    },
+    {
+      "n": 12,
+      "file": "angel_12.jpg",
+      "slug": "candor",
+      "title": "Candor",
+      "meaning": "radiance, bare and bright",
+      "sensitive": false
+    },
+    {
+      "n": 13,
+      "file": "angel_13.jpg",
+      "slug": "quies",
+      "title": "Quies",
+      "meaning": "stillness",
+      "sensitive": false
+    },
+    {
+      "n": 14,
+      "file": "angel_14.jpg",
+      "slug": "silentium",
+      "title": "Silentium",
+      "meaning": "silence",
+      "sensitive": false
+    },
+    {
+      "n": 15,
+      "file": "angel_15.jpg",
+      "slug": "aula",
+      "title": "Aula",
+      "meaning": "the great hall",
+      "sensitive": false
+    },
+    {
+      "n": 16,
+      "file": "angel_16.jpg",
+      "slug": "pinna",
+      "title": "Pinna",
+      "meaning": "the feather",
+      "sensitive": false
+    },
+    {
+      "n": 17,
+      "file": "angel_17.jpg",
+      "slug": "caelifera",
+      "title": "Caelifera",
+      "meaning": "she who carries the heavens",
+      "sensitive": false
+    },
+    {
+      "n": 18,
+      "file": "angel_18.jpg",
+      "slug": "petra",
+      "title": "Petra",
+      "meaning": "the rock",
+      "sensitive": false
+    },
+    {
+      "n": 19,
+      "file": "angel_19.jpg",
+      "slug": "nimbus",
+      "title": "Nimbus",
+      "meaning": "the cloud of glory",
+      "sensitive": false
+    },
+    {
+      "n": 20,
+      "file": "angel_20.jpg",
+      "slug": "ignis",
+      "title": "Ignis",
+      "meaning": "fire",
+      "sensitive": false
+    },
+    {
+      "n": 21,
+      "file": "angel_21.jpg",
+      "slug": "spira",
+      "title": "Spira",
+      "meaning": "a coil of light",
+      "sensitive": false
+    },
+    {
+      "n": 22,
+      "file": "angel_22.jpg",
+      "slug": "velamen",
+      "title": "Velamen",
+      "meaning": "the veil",
+      "sensitive": false
+    },
+    {
+      "n": 23,
+      "file": "angel_23.jpg",
+      "slug": "desiderium",
+      "title": "Desiderium",
+      "meaning": "longing",
+      "sensitive": false
+    }
+  ],
+  "heroSlugs": [
+    "caelifera"
+  ],
+  "ogSlug": "caelifera"
+}

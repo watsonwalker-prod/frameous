@@ -1,0 +1,95 @@
+{
+  "desktop": {
+    "canvas_px": [
+      1920,
+      1080
+    ],
+    "quad_tl_tr_br_bl": [
+      [
+        1115.7,
+        115.0
+      ],
+      [
+        1635.3,
+        31.8
+      ],
+      [
+        1634.0,
+        846.7
+      ],
+      [
+        1117.0,
+        791.5
+      ]
+    ],
+    "edge_quad": [
+      [
+        1635.3,
+        31.8
+      ],
+      [
+        1643.0,
+        34.4
+      ],
+      [
+        1641.7,
+        845.0
+      ],
+      [
+        1634.0,
+        846.7
+      ]
+    ],
+    "center_pct": [
+      71.6,
+      41.3
+    ]
+  },
+  "mobile": {
+    "canvas_px": [
+      1080,
+      1350
+    ],
+    "quad_tl_tr_br_bl": [
+      [
+        224.8,
+        139.6
+      ],
+      [
+        855.2,
+        38.6
+      ],
+      [
+        853.6,
+        1027.3
+      ],
+      [
+        226.4,
+        960.3
+      ]
+    ],
+    "edge_quad": [
+      [
+        855.2,
+        38.6
+      ],
+      [
+        864.5,
+        41.7
+      ],
+      [
+        863.0,
+        1025.2
+      ],
+      [
+        853.6,
+        1027.3
+      ]
+    ],
+    "center_pct": [
+      50.0,
+      40.1
+    ]
+  },
+  "note": "40x60 gallery-wrapped canvas on angled chalet wall; her video homography-warped onto quad_tl_tr_br_bl every frame; wrapped edge on the near (right) side"
+}
